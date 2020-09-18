@@ -7,7 +7,12 @@
 ### Under the hood
 Import twitter Feed 
 
+For Sentiment Analysis use Vader (Python NLP processing - expressions and emojis can be decoded)
+https://github.com/cjhutto/vaderSentiment
+
+
 Refer this for twitter sentiment analysis:
-https://medium.com/@jang.noodin/moods-on-twitter-can-predict-stock-price-movements-on-nasdaq-part-1-9b128d4492ae
+https://github.com/LJANGN/Twitter-moods-as-stock-price-predictors-on-Nasdaq
+
 
 https://towardsdatascience.com/understanding-random-forest-58381e0602d2
